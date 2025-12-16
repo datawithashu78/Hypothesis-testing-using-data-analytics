@@ -97,7 +97,7 @@ Extend analysis with predictive modeling
 
 Clone the repository
 
-git clone https://github.com/Sagarbyte/Hypothesis-testing-using-data-analytics.git
+git clone https://github.com/datawithashu78/Hypothesis-testing-using-data-analytics.git
 
 
 Navigate to the 2. Notebook folder
